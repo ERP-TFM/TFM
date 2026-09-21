@@ -1,6 +1,6 @@
 # Gestión inteligente de la demanda energética: predicción, flexibilidad y optimización en entornos urbanos
 
-Trabajo Fin de Máster del **Máster Universitario en Big Data y Ciencia de Datos**. Este repositorio reúne los seis notebooks que documentan el desarrollo experimental: desde el análisis de consumos eléctricos reales hasta la predicción *day-ahead* y la simulación de estrategias de gestión de la demanda (*Demand Side Management*, DSM).
+Trabajo Fin de Máster del **Máster Universitario en Big Data y Ciencia de Datos** de la Universidad Internacional de Valencia (VIU). Este repositorio reúne los seis notebooks que documentan el desarrollo experimental: desde el análisis de consumos eléctricos reales hasta la predicción *day-ahead* y la simulación de estrategias de gestión de la demanda (*Demand Side Management*, DSM).
 
 ## Resumen
 
